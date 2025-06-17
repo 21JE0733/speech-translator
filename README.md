@@ -1,7 +1,7 @@
 # Real-Time Speech Translator
 
 A powerful web application that enables real-time speech-to-text translation with text-to-speech capabilities. Built with React.js and Google Cloud APIs.
-
+Google Doc Link : https://docs.google.com/document/d/17UR2qe9GVzbonJYNZwCxgJbWHHRidRHQmmnrS7ktSwU/edit?tab=t.0
 ## 🌟 Features
 
 - Real-time speech-to-text conversion
